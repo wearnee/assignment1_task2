@@ -1,0 +1,23 @@
+{
+  "name": "assignment1_task2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearnee/assignment1_task2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wearnee/assignment1_task2/issues"
+  },
+  "homepage": "https://github.com/wearnee/assignment1_task2#readme",
+  "dependencies": {
+    "node": "^14.5.0"
+    
+  }
+}
